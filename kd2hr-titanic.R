@@ -6,7 +6,7 @@ library(tidyverse)
 library(readr)  
 library(dplyr)  
 
-setwd('C:/Users/Kanika/Downloads/FALL 2018/SYS 6018-001/Titanic')
+#setwd('C:/Users/Kanika/Downloads/FALL 2018/SYS 6018-001/Titanic')
 
 #------------------------------------------------------------------------
 
